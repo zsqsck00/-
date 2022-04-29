@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",咪咕体育
+https://mgws.live.miguvideo.com/wd_r2/virtuallive/tysy201903/150/index.m3u8?msisdn=e3a1bb88b033186e400174b0556bdee1&mdspid=&spid=800033&netType=0&sid=5500751211&pid=2028597139&timestamp=20220429173916&Channel_ID=0132_10010001005&ProgramID=654102378&ParentNodeID=-99&assertID=5500751211&client_ip=27.200.157.97&SecurityKey=20220429173916&mvid=5102223687&mcid=500020&mpid=&playurlVersion=WX-A1-5.4.3-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspwww&encrypt=80dae70d61601d0b7b56553da77ececa
+#EXTINF:-1 tvg-id="6083" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png" group-title="港澳台",HBO
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
 http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1HD
